@@ -71,7 +71,7 @@ Ingénieur informatique de formation avec un parcours international (Cameroun �
 - **Outils** : Python, Pandas, Matplotlib, Scikit-learn  
 - **Objectif** : Prédire le taux de taxe perçu (`Tax 5%`) via des algorithmes de régression  
 - **Livrables** : Notebook d’analyse, README explicatif, visualisations  
-- 👉 [Voir le projet sur GitHub](https://github.com/Djaha-Charly)
+- 👉 [Voir le projet sur GitHub](https://github.com/Djaha-Charly/Analyse-des-ventes-en-supermarch-avec-Machine-Learning)
 
 ### 🗃️ Système de gestion universitaire – Projet académique
 - Conception d'une base de données relationnelle  
