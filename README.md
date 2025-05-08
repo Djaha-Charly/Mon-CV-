@@ -33,7 +33,7 @@ Ingénieur informatique de formation avec un parcours international (Cameroun �
 - Gestion de la base de données produits (télétravail)
 
 ### 📌 Assistant familial — *Italie (2010 à 2024)*
-- Accompagnement de personnes en situation de handicap  
+- Soutien à l’inclusion et au développement relationnel de personnes en situation de handicap 
 - Organisation d’activités, gestion de projets humains  
 - Expérience valorisante dans la communication et l’adaptation
 
